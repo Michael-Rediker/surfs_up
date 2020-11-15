@@ -1,0 +1,23 @@
+# **Surfs Up**
+
+## Overview
+  Opening a surf/ice cream shop may seem like a straightforward idea for a place like Hawaii; however there are many factors, like temperature and precipation levels, that could affect the business. This analysis is meant to see if keeping the shop open year round is feasible, by looking at the data within the months of June and December, and making sure any potential investors believe this idea will work.
+
+## Results
+
+### *June Temperatures*
+![alt text](https://github.com/Michael-Rediker/surfs_up/blob/main/Resources/June%20Temperatures.PNG)
+
+### *December Temperatures*
+![alt text](https://github.com/Michael-Rediker/surfs_up/blob/main/Resources/Dec%20Temperatures.PNG)
+
+- One difference between the June and December Analysis is the average temperature. For June temperatures average around 74.94 degrees, in December, temperatures average around 71.04 degrees.
+
+- Another difference between the two would be the minimum temperatures. In June, the minimum temperature is 64 degrees, and in December, the minimum temperature drops down to 56 degrees.
+
+- A third difference between the two is the maximum temperatures for June and December. In June, temperatures reach a max of 85 degrees, and in December they reach of max of 83 degrees.
+
+## Summary
+  Looking at the results of our analysis the first thing that I noticed was the count difference. In June there were 1700 recorded temperatures, in December there were only 1517 temperatures. Having the same amount of data for each month could help strengthen our results, however because the differences between the two months are so small, its unlikely. The average temperatures show how little the differences between the months are overall. And those averages being in the mid 70's reinforces our thought that this would be a good location for a surf shop. 
+  The minimum temperatures show it can get pretty chilly, however the percentile data below it is a great way to reassure investors that it will not hinder business. While a minimum temperature of 64 degrees has been recorded in June, the lower 25% of temperatures for the month average around 73 degrees. So while it may possibly dip down to 64 degrees its much more likely for a "cold day" in June to be around 73 degrees. A similar story is told with the maximum temperatures. There is a recorded maximum temperature of 83 degrees in December, however the upper 75% of temperatures average around 74 degrees. So a warm day in the mid seventies is much more likely in December than seeing that max temperature of 83 degrees.
+  This analysis of temperatures gives a lot of great information to present to the investors, however there are other factors to consider. The first additional query I would make is about the precipitation levels for June and December. Combining the data from our temperatures analysis with an analysis of precipitaion would allow us to show any potential investors that opening a surf shop year round in this location will not be impeded by temperatures or rain. Another query I would make would be to get the same data for every other month in the year. June and December may be good indicators of months where the weather could halt business, but without looking at all the other months, we really aren't sure. A total analysis of the whole years weather would be very helpful in convincing possible investors that may not know a ton about surfing and/or ice cream, or the specific climate of Hawaii.
